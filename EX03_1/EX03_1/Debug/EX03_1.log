@@ -1,0 +1,6 @@
+﻿  readint.cpp
+c:\users\mckenna\documents\github\hw03\ex03_1\ex03_1\readint.cpp(16): warning C4101: 'ex2': unreferenced local variable
+c:\users\mckenna\documents\github\hw03\ex03_1\ex03_1\readint.cpp(35): warning C4715: 'set_element_of_x': not all control paths return a value
+c:\users\mckenna\documents\github\hw03\ex03_1\ex03_1\readint.cpp(22): warning C4715: 'read_int': not all control paths return a value
+  EX03_1.vcxproj -> C:\Users\Mckenna\Documents\GitHub\HW03\EX03_1\Debug\EX03_1.exe
+  EX03_1.vcxproj -> C:\Users\Mckenna\Documents\GitHub\HW03\EX03_1\Debug\EX03_1.pdb (Full PDB)
