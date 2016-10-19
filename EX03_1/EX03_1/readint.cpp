@@ -28,7 +28,8 @@ bool set_element_of_x(int index, int val)
 		x[index] = val;
 		return true;
 	}
-	if (index > 0 && index > 10) {
+	if (index > 0 && index > 10) {  //Check your logic here, I don't think your statement matches your conditional -RS
+					//This loop will only execute if index is greater than 11
 		throw std::out_of_range("index must be greater than zero or less then 10");
 		return false;
 	}
